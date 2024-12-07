@@ -1,0 +1,6 @@
+length:4
+Compressed Value:0.4453125
+Compressed Binary:00111110111001000000000000000000
+A:0.5
+C:0.25
+B:0.25
